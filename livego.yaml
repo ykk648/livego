@@ -24,3 +24,23 @@ server:
   hls: true
   api: true
   flv: true
+- appname: gp0
+  live: true
+  hls: true
+  api: true
+  flv: true
+- appname: gp1
+  live: true
+  hls: true
+  api: true
+  flv: true
+- appname: gp2
+  live: true
+  hls: true
+  api: true
+  flv: true
+- appname: gp3
+  live: true
+  hls: true
+  api: true
+  flv: true
